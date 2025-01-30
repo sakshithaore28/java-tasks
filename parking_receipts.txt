@@ -1,0 +1,4 @@
+Vehicle Type: car
+Vehicle Number: 102
+Slot Number: 29
+--------------------------------------------------
